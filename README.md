@@ -14,4 +14,3 @@ This Python application interfaces with the Azure OpenAI Service to generate ima
 ### Usage:
 1. Enter a descriptive prompt for the image.
 2. The application returns the revised prompt and a link to view or download the generated image.
-Blaming Image-Generator/README.md at 7e53cda61a705e563625e22754d584470964cfda · S-MAILs/Image-Generator · GitHub
